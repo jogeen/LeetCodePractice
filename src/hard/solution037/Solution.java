@@ -1,4 +1,4 @@
-package hard.solution37;
+package hard.solution037;
 
 import java.util.ArrayList;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package middling.solution36;
+package middling.solution036;
 
 import java.util.ArrayList;
 import java.util.HashSet;
