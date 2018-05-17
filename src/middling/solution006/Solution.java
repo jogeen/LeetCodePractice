@@ -1,4 +1,4 @@
-package hard.solution006;
+package middling.solution006;
 
 public class Solution {
 	public String convert(String s, int numRows) {

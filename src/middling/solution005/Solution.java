@@ -1,4 +1,4 @@
-package hard.solution005;
+package middling.solution005;
 
 public class Solution {
 	public String longestPalindrome(String s) {
